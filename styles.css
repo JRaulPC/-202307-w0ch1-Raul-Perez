@@ -1,0 +1,32 @@
+
+* {
+    font-family: monospace;
+}
+
+.counter {
+    line-height: 200px;
+    font-size: 100px;
+    position: fixed;
+    top: 200px;
+    left: 450px;
+    text-align: center;
+    border:solid black;
+    box-sizing: content-box;width: 500px;
+    box-sizing: content-box;height: 250px;
+    border-width: 4px;
+    border-radius: 30px;
+
+}
+
+
+.button {
+ 
+    font-size: 80px;
+    position: fixed;
+    top: 350px;
+    left: 455px;
+    text-align: center;
+    box-sizing: content-box;width: 500px;
+    box-sizing: content-box;height: 250px;
+
+}
